@@ -1,2 +1,2 @@
-# projectgerty
-Project GERTY is website clone.
+# theplanetship
+theplanetship is a website clone.
