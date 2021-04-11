@@ -1,9 +1,32 @@
-<html lang="en-US">
-	<head>
-		<meta charset="utf-8">
-	</head>
-	<body class="home blog custom-header header-image header-full-width full-width-content genesis-breadcrumbs-hidden parent-page category-  ambient-home" style="zoom: 1;">
-		<div class="site-container">
-		<div data-aos="NDM1NzM0" id="wrcHoverDiv">
+<html>
+	<body>
+		<div>
+			<header>
+				<nav class="nv-primary" id="nav-sticker" itemscope="https://schema.org/SiteNavigatinElement">
+					<div class="menu-home-menu-container">
+					    <span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+					    <a href="#">Pieces</a>
+					    <ul class="sub-menu">
+					    	<li id="menu-item-5647" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5647">
+					    		<span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+					    		<a href="https://theplanetship.com/deme/">Deme</a>
+					    	</li>
+					    </ul>
+					    <span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+					    <a href="/" class="router-link-exact-active router-link-active" wrc_done="true">deepspaceghost</a>
+					    <span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+					    <a href="/shows" class="" wrc_done="true">Shows</a>
+					    <span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+					    <a href="https://theplanetship.com/news/">News</a>
+					    <span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+					    <a href="/faq" class="" wrc_done="true">FAQ</a>
+					    <span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+				    	<a href="http://instagram.com/iamhemingway" target="blank">@iamhemingway</a>
+				    	<span data-aos="NDM1NzM0" class="wrc0 wrc_icon wrc_injected" data-rating="0"></span>
+				    	<a href="#connect">Connect</a>
+					</div>
+				</nav>
+			</header>
+		</div>
 	</body>
 </html>
