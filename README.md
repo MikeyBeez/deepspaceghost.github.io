@@ -1,2 +1,2 @@
-# theplanetship
-theplanetship is a website clone.
+# deepspaceghost.github.io
+deepspaceghost.github.io is a website clone.
